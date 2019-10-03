@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Extension adds Lytebox image viewer integration to Magento
